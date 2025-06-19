@@ -1,4 +1,4 @@
-# Micro_IT_Sentimental_Analysis_Project_1
+# Sentimental_Analysis_Project_
 # 🧠 Sentimental Analysis
 
 A lightweight Python program to detect the sentiment of a given sentence based on predefined emotion word sets.  
